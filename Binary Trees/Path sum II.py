@@ -24,3 +24,4 @@ def pathsum2(root,target):
     paths = []
     sol(root,target,0,path, paths)
     return paths
+##
