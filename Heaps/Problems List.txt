@@ -1,24 +1,4 @@
-Relative Ranks
 
-Last Stone Weight
-
-Seat Reservation Manager
-
-Sort Characters By Frequency
-
-Reduce Array Size to The Half
-
-Longest Happy String
-
-Reorganize String
-
-Maximum Average Pass Ratio
-
-Furthest Building You Can Reach
-
-Distant Barcodes
-
-Task Scheduler
 
 Single Threaded CPU
 
