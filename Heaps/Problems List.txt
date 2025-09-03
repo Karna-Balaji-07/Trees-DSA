@@ -1,23 +1,25 @@
+Tier 1: Must-do (Core Interview Focus)
 
 
-Single Threaded CPU
 
-Total Cost to Hire K Workers
 
-Process Tasks Using Servers
 
-Maximum Number of Eaten Apples
+K Closest Points to Origin – Heap/sorting problem.
 
-Maximum Number of Events That Can Be Attended
+Find K Closest Elements – Binary search + two pointers.
 
-Put Marbles in Bags
+Top K Frequent Words – HashMap + Heap + sorting strings.
 
-Trapping Rain Water II
+The K Weakest Rows in a Matrix – Good warm-up for heap usage.
 
-Maximum Subsequence Score
+Tier 2: Good practice (Strengthen heap and binary search intuition)
 
-Maximum Performance of a Team
+Kth Largest Element in a Stream – Streaming/heap maintenance.
 
-Max Value of Equation
+Find Subsequence of Length K With the Largest Sum – Greedy + heap.
 
-The Skyline Problem
+Find Kth Largest XOR Coordinate Value – Prefix XOR + heap.
+
+Find the Kth Largest Integer in the Array – String sorting + heap.
+
+Query Kth Smallest Trimmed Number – String manipulation + sorting.
