@@ -1,25 +1,11 @@
-Tier 1: Must-do (Core Interview Focus)
+Remove Stones to Minimize the Total – heap/greedy, classic resource minimization.
 
+Minimum Operations to Halve Array Sum – heap/greedy, teaches repeated halving strategy.
 
+The Number of the Smallest Unoccupied Chair – heap + simulation, covers priority queues.
 
+Lexicographically Minimum String After Removing Stars – stack/string manipulation, very common pattern.
 
+Replace Question Marks in String to Minimize Its Value – greedy/string construction, tests careful logic.
 
-K Closest Points to Origin – Heap/sorting problem.
-
-Find K Closest Elements – Binary search + two pointers.
-
-Top K Frequent Words – HashMap + Heap + sorting strings.
-
-The K Weakest Rows in a Matrix – Good warm-up for heap usage.
-
-Tier 2: Good practice (Strengthen heap and binary search intuition)
-
-Kth Largest Element in a Stream – Streaming/heap maintenance.
-
-Find Subsequence of Length K With the Largest Sum – Greedy + heap.
-
-Find Kth Largest XOR Coordinate Value – Prefix XOR + heap.
-
-Find the Kth Largest Integer in the Array – String sorting + heap.
-
-Query Kth Smallest Trimmed Number – String manipulation + sorting.
+Minimum Sum of Squared Difference – greedy/math, balancing problem.
